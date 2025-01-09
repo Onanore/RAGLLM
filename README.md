@@ -6,8 +6,8 @@ Chat application with Ollama integration and ChromaDB vector store.
 
 1. Clone repository:
 ```bash
-git clone https://github.com/yourusername/streamlit-chat-app
-cd streamlit-chat-app
+git clone https://github.com/Onanore/RAGLLM
+cd RAGLLM
 ```
 
 2. Install dependencies:
