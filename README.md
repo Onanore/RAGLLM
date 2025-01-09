@@ -47,10 +47,8 @@ streamlit-chat-app/
 ├── README.md
 ├── requirements.txt
 ├── License
-├── src/
-│   └── app.py
-└── data/
-    └── chat_history/
+└── src/
+    └── app.py
 ```
 
 ## Examples
